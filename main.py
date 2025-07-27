@@ -1,3 +1,6 @@
+# Raw information from chapter 1 and 2 from the book The-Boring-Stuff-With-Python-3rd-Edition these are the thing i learn in chap 1 and 2 
+
+
 # print("Hello")
 # print("What is your Name ?")
 # MyName= input()

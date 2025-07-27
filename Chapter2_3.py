@@ -1,3 +1,5 @@
+# Some Raw  information i used tolearn some imp topic from chapter 3 and 4 from the book The-Boring-Stuff-With-Python-3rd-Edition
+
 # def hello():
 #     print('Howdy!')
 #     print('Howdy!!!')

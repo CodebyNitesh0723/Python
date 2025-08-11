@@ -1,0 +1,12 @@
+2025-08-04 22:32:35,660 - INFO - Program Started
+2025-08-04 22:32:35,660 - INFO - Welcome to program where output is save in file not show in terminal
+
+2025-08-04 22:32:39,880 - INFO - Adding 15 to 5
+2025-08-04 22:32:39,880 - INFO - The result of adding 15 and 5 is 20
+2025-08-04 22:32:39,881 - INFO - Program ended
+2025-08-10 16:34:46,247 - INFO - Program Started
+2025-08-10 16:34:46,248 - INFO - Welcome to program where output is save in file not show in terminal
+
+2025-08-10 16:34:51,285 - INFO - Adding 13 to 5
+2025-08-10 16:34:51,285 - INFO - The result of adding 13 and 5 is 18
+2025-08-10 16:34:51,285 - INFO - Program ended

@@ -1,0 +1,4 @@
+2025-08-03 20:41:28,507 - DEBUG - Processing started
+2025-08-03 20:41:28,507 - INFO - Average is: 20.0
+2025-08-03 20:41:28,507 - DEBUG - Processing started
+2025-08-03 20:41:28,507 - ERROR - No data to process
